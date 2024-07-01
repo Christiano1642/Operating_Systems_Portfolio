@@ -34,7 +34,7 @@ The software design process involved several key strategies:
 
 ### Techniques and Strategies for Future Projects
 
-For future projects, I would employ the following techniques:
+For future projects, I would apply the following techniques:
 1. **Agile Methodology:** Using iterative development cycles to incorporate feedback and make continuous improvements.
 2. **Prototyping:** Creating early prototypes to validate design concepts and gather user feedback.
 3. **Modular Design:** Developing software in modular components to enhance maintainability and scalability.
